@@ -1,3 +1,9 @@
 node_modules
 # Keep environment variables out of version control
 .env
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/jsLinters/eslint.xml
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/spaceTime.iml
+/.idea/vcs.xml
